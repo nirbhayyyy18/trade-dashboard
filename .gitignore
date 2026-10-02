@@ -8,3 +8,7 @@ build/
 *.sqlite
 *.sqlite3
 coverage/
+notepad
+.gitignore
+*.db-shm
+*.db-wal
