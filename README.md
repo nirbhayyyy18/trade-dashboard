@@ -1,4 +1,4 @@
-\# BSE Trades Dashboard
+# BSE Trades Dashboard
 
 
 
@@ -10,39 +10,39 @@ The application simulates pulling trade data from a BSE API where a complete dat
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
-\### Backend
+### Backend
 
-\- Node.js
+- Node.js
 
-\- Express
+- Express
 
-\- TypeScript
+- TypeScript
 
-\- SQLite
+- SQLite
 
-\- better-sqlite3
+- better-sqlite3
 
-\- WebSocket (`ws`)
-
-
-
-\### Frontend
-
-\- Next.js
-
-\- React
-
-\- TypeScript
-
-\- Tailwind CSS
+- WebSocket (`ws`)
 
 
 
-\## Architecture
+### Frontend
+
+- Next.js
+
+- React
+
+- TypeScript
+
+- Tailwind CSS
+
+
+
+## Architecture
 
 
 
